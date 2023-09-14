@@ -2416,7 +2416,7 @@ input, select, textarea {
     transform: rotateY(0deg); /* Initial position */
 }
 .bold-i{
-	color: #fff;
+	color: #fff !important;
 	font: italic;
 	
 }
